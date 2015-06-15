@@ -1,0 +1,20 @@
+From 187deba4061eb41c338ab2822f99272b944493ca Mon Sep 17 00:00:00 2001
+From: sagibuild <sagi.build@gmail.com>
+Date: Thu, 16 Apr 2015 17:43:29 -0400
+Subject: [PATCH 01/16] Initial commit
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..37570b6
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1 @@
++# gitdemo
+-- 
+1.9.5.msysgit.1
+

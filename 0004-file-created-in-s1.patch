@@ -1,0 +1,16 @@
+From 368ab60a8e0552125fcfcc0e6bf378a38cecb184 Mon Sep 17 00:00:00 2001
+From: srujan <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 17:10:12 -0400
+Subject: [PATCH 04/16] file created in s1
+
+---
+ hello.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 hello.txt
+
+diff --git a/hello.txt b/hello.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.1
+

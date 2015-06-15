@@ -1,0 +1,27 @@
+From 8d732de907edfd539d927a44978eb9d9e5232770 Mon Sep 17 00:00:00 2001
+From: sagibuild <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 18:10:47 -0400
+Subject: [PATCH 09/16] Delete hi.txt.BACKUP.6336.txt
+
+---
+ hi.txt.BACKUP.6336.txt | 8 --------
+ 1 file changed, 8 deletions(-)
+ delete mode 100644 hi.txt.BACKUP.6336.txt
+
+diff --git a/hi.txt.BACKUP.6336.txt b/hi.txt.BACKUP.6336.txt
+deleted file mode 100644
+index 55d17f0..0000000
+--- a/hi.txt.BACKUP.6336.txt
++++ /dev/null
+@@ -1,8 +0,0 @@
+-hi srujan good morning!!
+-git status
+-<<<<<<< HEAD
+-[A[C[C[C[C[C[C[C[C[C[Cgit hub lo inko commit osthundi dheko
+-how are you
+-=======
+-[A[C[C[C[C[C[C[C[C[C[Chow are you
+->>>>>>> s1
+-- 
+1.9.5.msysgit.1
+

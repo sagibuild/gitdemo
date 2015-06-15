@@ -1,0 +1,16 @@
+From a72337c26e9ef794f2f787f5d0eff27bda9ecbd1 Mon Sep 17 00:00:00 2001
+From: srujan <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 17:31:46 -0400
+Subject: [PATCH 06/16] testfile added by s1
+
+---
+ testbrnch/test.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 testbrnch/test.txt
+
+diff --git a/testbrnch/test.txt b/testbrnch/test.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.1
+

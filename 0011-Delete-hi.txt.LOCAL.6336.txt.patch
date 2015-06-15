@@ -1,0 +1,23 @@
+From cb0473b3aa16ea0ec1c6a00d06403d4efba9689c Mon Sep 17 00:00:00 2001
+From: sagibuild <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 18:11:02 -0400
+Subject: [PATCH 11/16] Delete hi.txt.LOCAL.6336.txt
+
+---
+ hi.txt.LOCAL.6336.txt | 4 ----
+ 1 file changed, 4 deletions(-)
+ delete mode 100644 hi.txt.LOCAL.6336.txt
+
+diff --git a/hi.txt.LOCAL.6336.txt b/hi.txt.LOCAL.6336.txt
+deleted file mode 100644
+index ba72afa..0000000
+--- a/hi.txt.LOCAL.6336.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-hi srujan good morning!!
+-git status
+-[A[C[C[C[C[C[C[C[C[C[Cgit hub lo inko commit osthundi dheko
+-how are you
+-- 
+1.9.5.msysgit.1
+

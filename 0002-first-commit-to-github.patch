@@ -1,0 +1,23 @@
+From 644763d7ef51b13a2ebe6d98afa0a0294dc796df Mon Sep 17 00:00:00 2001
+From: srujan <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 16:25:14 -0400
+Subject: [PATCH 02/16] first commit to github
+
+---
+ hi.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+ create mode 100644 hi.txt
+
+diff --git a/hi.txt b/hi.txt
+new file mode 100644
+index 0000000..681ee12
+--- /dev/null
++++ b/hi.txt
+@@ -0,0 +1,3 @@
++hi srujan good morning!!
++git status
++[A[C[C[C[C[C[C[C[C[C[C
+\ No newline at end of file
+-- 
+1.9.5.msysgit.1
+

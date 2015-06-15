@@ -1,0 +1,18 @@
+From 8e6059dd69d4435898ab394e7c9bc4c05ad96969 Mon Sep 17 00:00:00 2001
+From: srujan <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 17:11:46 -0400
+Subject: [PATCH 05/16] added point to hello by s1
+
+---
+ hello.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/hello.txt b/hello.txt
+index e69de29..b34f3c9 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -0,0 +1 @@
++veru tough job
+-- 
+1.9.5.msysgit.1
+
