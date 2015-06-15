@@ -1,0 +1,23 @@
+From 6c8066cc903e549f0a1cec19479954c8ec3493a1 Mon Sep 17 00:00:00 2001
+From: srujan <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 19:00:50 -0400
+Subject: [PATCH 15/16] deleted hi in master
+
+---
+ hi.txt | 4 ----
+ 1 file changed, 4 deletions(-)
+ delete mode 100644 hi.txt
+
+diff --git a/hi.txt b/hi.txt
+deleted file mode 100644
+index 6a6bb6c..0000000
+--- a/hi.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-hi srujan good morning!!
+-git status
+-[A[C[C[C[C[C[C[C[C[C[Chow are you
+-arey billi
+-- 
+1.9.5.msysgit.1
+

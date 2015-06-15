@@ -1,0 +1,24 @@
+From 9394d801b05c753c0e442936e7594d77a2c6fb61 Mon Sep 17 00:00:00 2001
+From: srujan <sagi.build@gmail.com>
+Date: Sun, 14 Jun 2015 19:43:42 -0400
+Subject: [PATCH 16/16] some chnges added in master
+
+---
+ hello.txt | 1 +
+ xyz.txt   | 0
+ 2 files changed, 1 insertion(+)
+ create mode 100644 xyz.txt
+
+diff --git a/hello.txt b/hello.txt
+index b34f3c9..89c265f 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -1 +1,2 @@
+ veru tough job
++hi by master
+diff --git a/xyz.txt b/xyz.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.9.5.msysgit.1
+
